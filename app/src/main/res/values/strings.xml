@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Speach-to-text</string>
+    <string name="add">Add</string>
+    <string name="button">Button</string>
+    <string name="text_here">Text here...</string>
+    <string name="google_speach">Google speach</string>
+    <string name="value">Value</string>
+    <string name="google_speech" />
+</resources>
